@@ -1,4 +1,3 @@
-import { useCRMStore } from '../store';
 import { BarChart, Users, Briefcase, FileText } from 'lucide-react';
 
 const Dashboard = () => {
